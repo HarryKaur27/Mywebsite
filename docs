@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dr. Harry Kaur | Academic Resume</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: #f5f7fb;
+      color: #1f2937;
+      line-height: 1.6;
+    }
+    header {
+      background: #111827;
+      color: #ffffff;
+      padding: 3rem 1.5rem;
+      text-align: center;
+    }
+    header h1 { margin: 0; font-size: 2.4rem; }
+    header p { margin-top: 0.75rem; font-size: 1.05rem; color: #d1d5db; }
+    main { max-width: 1000px; margin: 2rem auto; padding: 0 1.5rem 3rem; }
+    section {
+      background: #ffffff;
+      border-radius: 12px;
+      padding: 2rem;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+    }
+    section h2 { margin-top: 0; font-size: 1.4rem; border-bottom: 2px solid #e5e7eb; padding-bottom: 0.5rem; }
+    .item { margin-bottom: 1.25rem; }
+    .item h3 { margin: 0; font-size: 1.1rem; }
+    .item span { font-size: 0.9rem; color: #6b7280; }
+    ul { padding-left: 1.25rem; }
+    footer { text-align: center; padding: 1.5rem; color: #6b7280; font-size: 0.9rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="linkedin-photo.jpg" alt="Dr. Harry Kaur" style="width:150px;height:150px;border-radius:50%;object-fit:cover;margin-bottom:1rem;border:4px solid #ffffff" />
+    <h1>Dr. Harry Kaur, Ph.D.</h1>
+    <p>
+      Postdoctoral Researcher | Department of Biochemistry, McGill University, Canada<br/>
+      Email: harry.kaur@mcgill.ca | Phone: +1 (514) 607-2154<br/>
+      <a href="https://www.linkedin.com/in/harrykaur/" style="color:#93c5fd">LinkedIn</a> ·
+      <a href="http://bit.ly/4gK7xOi" style="color:#93c5fd">Google Scholar</a>
+    </p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Professional Summary</h2>
+      <p>
+        Postdoctoral researcher specializing in molecular and structural biology, protein biochemistry, and enzyme-based bioremediation. Recipient of prestigious national and international fellowships, including DST-INSPIRE and CRBS Postdoctoral Fellowship. Proven record of high-impact publications, structural biology contributions (PDB), and interdisciplinary research.
+      </p>
+    </section>
+
+    <section>
+      <h2>Current Position</h2>
+      <div class="item">
+        <h3>Postdoctoral Researcher</h3>
+        <span>2025 – Present | McGill University, Canada</span>
+        <p>
+          My research aims to uncover the mechanisms governing target-site selection of the Tn6022 transposon, with the ultimate goal of engineering proteins capable of recognizing alternative DNA sequences. I investigate the DNA regions that determine binding specificity, characterize molecular interactions within the targeting complex, and resolve its structure using cryo-EM. This work will provide mechanistic insights into how Tn6022 achieves exceptionally high transposition efficiency and establish a foundation for designing programmable DNA-targeting tools.
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <div class="item">
+        <h3>Ph.D. in Biosciences & Bioengineering (Distinction)</h3>
+        <span>2018 – 2024 | Indian Institute of Technology Roorkee</span>
+      </div>
+      <div class="item">
+        <h3>M.Sc. Life Sciences (Gold Medalist, 1st Rank)</h3>
+        <span>2014 – 2016 | Dibrugarh University, India</span>
+      </div>
+      <div class="item">
+        <h3>B.Sc. Zoology (Gold Medalist, 1st Rank)</h3>
+        <span>2011 – 2014 | Dibrugarh University, India</span>
+      </div>
+    </section>
+
+    <section>
+      <h2>Fellowships & Honors</h2>
+      <ul>
+        <li>CRBS Postdoctoral Fellowship, McGill University (2025–2026)</li>
+        <li>Outstanding Research Award (Ph.D.), IIT Roorkee (2024–25)</li>
+        <li>DST-INSPIRE Fellowship – Top 1% PhD Scholars in India (2018–2022)</li>
+        <li>UGC Postgraduate Merit Scholarship</li>
+        <li>State-level Best Debater & Academic Merit Awards</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Research Expertise</h2>
+      <ul>
+        <li>Molecular & Structural Biology</li>
+        <li>Protein Biochemistry & Crystallography</li>
+        <li>Enzyme Kinetics & Immobilization</li>
+        <li>Bioremediation & Biosensor Development</li>
+        <li>Bioinformatics & Microbiology</li>
+      </ul>
+      </p>
+    </section>
+
+    <section>
+      <h2>Currently Gaining Expertise</h2>
+      <ul>
+        <li>Cryo-Electron Microscopy (Cryo-EM)</li>
+        <li>Differential Scanning Fluorimetry (DSF)</li>
+        <li>Mass Photometry</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Key Research Outputs</h2>
+      <ul>
+        <li>PDB Structure Deposited: 8HVQ – Haloacid dehalogenase-like hydrolase</li>
+        <li>GenBank Accession: PP204289.1</li>
+        <li>23+ peer-reviewed publications in high-impact journals</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Leadership & Service</h2>
+      <div class="item">
+        <h3>Vice President – Communications</h3>
+        <span>2025–2026 | CRBS Student Council, McGill University</span>
+        <p>Lead outreach, event promotion, and research community engagement.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    © 2025 Dr. Harry Kaur
+  </footer>
+</body>
+</html>
